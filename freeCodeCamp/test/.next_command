@@ -101,3 +101,4 @@ rm CodeRode.svg
 ls --color=auto
 mkdir images
 ls --color=auto
+cp background.jpg images
