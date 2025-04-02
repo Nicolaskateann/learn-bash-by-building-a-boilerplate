@@ -155,3 +155,11 @@ touch background.jpg
 cd ../../..
 cd images
 ls --color=auto
+mv header.png ..
+mv header.png ..
+mv header.png ..
+cd /workspace/project/website/images
+mv header.png ..
+mv header.png website
+ls --color=auto
+ls --color=auto
