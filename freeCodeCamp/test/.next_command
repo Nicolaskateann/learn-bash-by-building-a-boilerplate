@@ -46,3 +46,4 @@ ls --color=auto
 morcd node_modules
 cd node_modules
 ls --color=auto
+ls --color=auto -l
