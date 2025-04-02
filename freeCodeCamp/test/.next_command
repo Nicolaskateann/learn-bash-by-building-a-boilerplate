@@ -80,3 +80,5 @@ ls --color=auto
 ls --color=auto --help
 ls --color=auto --all
 cd .
+touch background.spg
+touch background.jpg
