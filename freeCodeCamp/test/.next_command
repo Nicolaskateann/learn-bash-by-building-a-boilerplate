@@ -100,3 +100,4 @@ ls --color=auto
 rm CodeRode.svg
 ls --color=auto
 mkdir images
+ls --color=auto
