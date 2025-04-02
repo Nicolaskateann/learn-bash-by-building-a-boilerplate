@@ -84,3 +84,4 @@ touch background.spg
 touch background.jpg
 rm background.spg
 touch header.png
+touch footer.jpeg
