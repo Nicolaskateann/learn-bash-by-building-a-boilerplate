@@ -82,3 +82,5 @@ ls --color=auto --all
 cd .
 touch background.spg
 touch background.jpg
+rm background.spg
+touch header.png
